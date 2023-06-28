@@ -5,11 +5,12 @@
 프로그래밍이라는 기술을 활용해 세상에 도움이 되는 서비스를 만들고 있습니다.
 
 계속해서 성장하고 발전하는 사람이 되고 싶습니다. :)
-
-
+### [Resume](https://my.surfit.io/w/1318792316)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhalfmoon-mind&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# 기간 및 업데이트
+
+
+# 프로젝트 및 기간
 |기간|주제|관련 링크|
 |----|-----|----|
 |2023.05 ~ 2023.06|새싹톤 "깨끗해질지도" Flutter 개발|[Github](https://github.com/May-Be-Clean/May_Be_Clean_client)
