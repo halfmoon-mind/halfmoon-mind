@@ -13,6 +13,7 @@
 # 프로젝트 및 기간
 |기간|주제|관련 링크|
 |----|-----|----|
+|2023.06 ~ now |플러터 Multiple Image Picker Widget 패키지 개발 |[Github](https://github.com/halfmoon-mind/multiple-image-picker) <br>[관련 링크](https://pub.dev/packages/multiple_image_picker_widget)
 |2023.05 ~ 2023.06|새싹톤 "깨끗해질지도" Flutter 개발|[Github](https://github.com/May-Be-Clean/May_Be_Clean_client)
 |2023.06 ~ now |숭실대학교 개발 동아리 YourSSU iOS 파트 |[급할때 화장실](https://github.com/YOURSSU-Rookiethon-Team3/Faster-Toilet-iOS)|
 |2023.04 ~ now |숭실대학교 학생들을 위한 웹사이트 제작 프로젝트 "DaitSSU" 프로젝트 리더 |[Github](https://github.com/DaITssu)
