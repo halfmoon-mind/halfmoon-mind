@@ -10,7 +10,7 @@
 
 
 
-# 프로젝트 및 기간
+# 프로젝트
 |기간|주제|관련 링크|
 |----|-----|----|
 |2023.06 ~ now |플러터 Multiple Image Picker Widget 패키지 개발 |[Github](https://github.com/halfmoon-mind/multiple-image-picker) <br>[관련 링크](https://pub.dev/packages/multiple_image_picker_widget)
