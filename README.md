@@ -16,7 +16,7 @@
 
 # 🚀 Work Experience 
 
-### 스타트업 허슬러즈 어플리케이션 개발자(Flutter) 캘린더 어플리케이션 개발 
+### 스타트업 허슬러즈 어플리케이션 개발자(Flutter) *캘린더 어플리케이션 개발*
 *2022.04 ~ 2023.05*
 
 
@@ -53,9 +53,9 @@
 # 🍾 Project
 |기간|주제|관련 링크|
 |----|-----|----|
-|2023.06 ~ now |플러터 Multiple Image Picker Widget 패키지 개발 |[Github](https://github.com/halfmoon-mind/multiple-image-picker) <br>[관련 링크](https://pub.dev/packages/multiple_image_picker_widget)
-|2023.04 ~ now |숭실대학교 학생들을 위한 웹사이트 제작 프로젝트 "다잇슈" 프로젝트 리더 |[Github](https://github.com/DaITssu)
-|2023.05 ~ 2023.06 |새싹톤 "깨끗해질지도" Flutter 개발|[Github](https://github.com/May-Be-Clean/May_Be_Clean_client)
+|2023.06 ~ now |플러터 Multiple Image Picker Widget 패키지 개발 |[Github](https://github.com/halfmoon-mind/multiple-image-picker) <br>[관련 링크](https://pub.dev/packages/multiple_image_picker_widget)|
+|2023.04 ~ now |숭실대학교 학생들을 위한 웹사이트 제작 프로젝트 "다잇슈" 프로젝트 리더 |[Github](https://github.com/DaITssu)|
+|2023.05 ~ 2023.06 |새싹톤 "깨끗해질지도" Flutter 개발|[Github](https://github.com/May-Be-Clean/May_Be_Clean_client)|
 |2022.12 ~ 2023.04 |Google Solution Challenge 2023 "Garbage Collector" Flutter 개발|[Github](https://github.com/gdsc-ssu/garbage-collector-client)|
 |2022.09 ~ 2022.12 |"시작장애인의 위한 지하철 내부 길 유도 시스템" 고안 및 아이디어 고도화 |[설명 링크](https://velog.io/@halfmoon_mind/%EC%8B%9C%EC%9E%91%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%9D%98-%EC%9C%84%ED%95%9C-%EC%A7%80%ED%95%98%EC%B2%A0-%EB%82%B4%EB%B6%80-%EA%B8%B8-%EC%9C%A0%EB%8F%84-%EC%8B%9C%EC%8A%A4%ED%85%9C)|
 |2022.07 ~ 2022.08 |숭실대학교 데이터톤 "BTDT" Flutter 개발 및 프로젝트 매니저 |[Github](https://github.com/halfmoon-mind/BTDT_flutter)|
