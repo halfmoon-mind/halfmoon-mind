@@ -8,6 +8,7 @@
 
 # 📸 About Me
 ### [Resume](https://my.surfit.io/w/1318792316)
+### [LinkedIn](https://www.linkedin.com/in/eddy-sim/)
 ### 숭실대학교 컴퓨터학부
 *2019.03 ~ 2024.02*
 
