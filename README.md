@@ -7,23 +7,19 @@
 계속해서 성장하고 발전하는 사람이 되고 싶습니다. :)
 
 # 📸 About Me
-### [Resume](https://my.surfit.io/w/1318792316)
-### [LinkedIn](https://www.linkedin.com/in/eddy-sim/)
+### [Resume](https://my.surfit.io/w/1318792316) / [LinkedIn](https://www.linkedin.com/in/eddy-sim/)
 ### 숭실대학교 컴퓨터학부
 *2019.03 ~ 2024.02*
-
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhalfmoon-mind&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 🚀 Work Experience 
 
-### 스타트업 허슬러즈 어플리케이션 개발자(Flutter) *캘린더 어플리케이션 개발*
+### 스타트업 허슬러즈 어플리케이션 개발자(Flutter) 
 *2022.04 ~ 2023.05*
-
+SNS 기반 소셜 공유 캘린더 "게더링" 서비스 제작
 
 [게더링](https://apps.apple.com/kr/app/%EA%B2%8C%EB%8D%94%EB%A7%81-%EC%9A%94%EC%A6%98-%EC%84%B8%EB%8C%80%EC%9D%98-%EB%8A%90%EB%82%8C%EC%9E%88%EB%8A%94-%EC%BA%98%EB%A6%B0%EB%8D%94/id1643475991) 
-
-[Weecan](https://apps.apple.com/kr/app/weecan-%EC%A7%81%EA%B4%80%EC%A0%81%EC%9D%B8-%EC%8B%9C%EA%B0%84%ED%91%9C-%ED%94%8C%EB%9E%98%EB%84%88-%EC%95%B1/id6445887570)
 
 # 🚴 Community
 
@@ -42,6 +38,8 @@
 - [UpDate CLI](https://github.com/gdsc-ssu/up-date-cli)
 
 # 🏆 Award
+### 제19회 TOPCIT 정기평가 성적우수 장려상
+*2023.07*
 
 ### 제9회 KSPM 대학생 프로젝트 경연대회 장려상 "심+"
 *2020.04 ~ 2020.09*
@@ -54,9 +52,9 @@
 # 🍾 Project
 |기간|주제|관련 링크|
 |----|-----|----|
-|2023.06 ~ now |플러터 Multiple Image Picker Widget 패키지 개발 |[Github](https://github.com/halfmoon-mind/multiple-image-picker) <br>[관련 링크](https://pub.dev/packages/multiple_image_picker_widget)|
-|2023.04 ~ now |숭실대학교 학생들을 위한 웹사이트 제작 프로젝트 "다잇슈" 프로젝트 리더 |[Github](https://github.com/DaITssu)|
-|2023.05 ~ 2023.06 |새싹톤 "깨끗해질지도" Flutter 개발|[Github](https://github.com/May-Be-Clean/May_Be_Clean_client)|
-|2022.12 ~ 2023.04 |Google Solution Challenge 2023 "Garbage Collector" Flutter 개발|[Github](https://github.com/gdsc-ssu/garbage-collector-client)|
+|2023.08 ~ now |청년의 고민을 노인이 해결해주는 마법의 소라고동, SeenEAR(신이어) flutter 개발 |[Github](https://github.com/OpenSourceSw-seenEar/seenEar-client)|
+|2023.04 ~ now |숭실대학교 학생들을 위한 웹사이트 제작 프로젝트, "다잇슈" 프로젝트 리더 |[Github](https://github.com/DaITssu/daitssu-client)|
+|2023.05 ~ 2023.06 |주변의 친환경 가게를 소개하고 공유하는 지도 어플리케이션, "깨끗해질지도" flutter 개발|[Github](https://github.com/May-Be-Clean/May_Be_Clean_client)|
+|2022.12 ~ 2023.04 |Google Solution Challenge 2023 "Garbage Collector" flutter 개발|[Github](https://github.com/gdsc-ssu/garbage-collector-client)|
 |2022.09 ~ 2022.12 |"시작장애인의 위한 지하철 내부 길 유도 시스템" 고안 및 아이디어 고도화 |[설명 링크](https://velog.io/@halfmoon_mind/%EC%8B%9C%EC%9E%91%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%9D%98-%EC%9C%84%ED%95%9C-%EC%A7%80%ED%95%98%EC%B2%A0-%EB%82%B4%EB%B6%80-%EA%B8%B8-%EC%9C%A0%EB%8F%84-%EC%8B%9C%EC%8A%A4%ED%85%9C)|
-|2022.07 ~ 2022.08 |숭실대학교 데이터톤 "BTDT" Flutter 개발 및 프로젝트 매니저 |[Github](https://github.com/halfmoon-mind/BTDT_flutter)|
+|2022.07 ~ 2022.08 |숭실대학교 도서관 책 공유 및 대여 서비스, "BTDT" flutter 개발 / 프로젝트 매니저 |[Github](https://github.com/halfmoon-mind/BTDT_flutter)|
