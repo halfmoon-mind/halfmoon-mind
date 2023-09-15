@@ -28,7 +28,9 @@ SNS 기반 소셜 공유 캘린더 "게더링" 서비스 제작
 
 숭실대학교 개발 동아리 YourSSU iOS 파트 
 
-[급할때 화장실](https://github.com/YOURSSU-Rookiethon-Team3/Faster-Toilet-iOS)
+- [급할때 화장실](https://github.com/YOURSSU-Rookiethon-Team3/Faster-Toilet-iOS)
+- [YDS-iOS](https://github.com/yourssu/YDS-iOS)
+
 
 ### Google Developer Student Club Web/Mobile 파트
 *2022.09 ~ now*
