@@ -17,8 +17,14 @@
 
 # 🚀 Work Experience 
 
-### (주)허슬러즈 어플리케이션 개발자(Flutter) 
+## 주식회사 어터 어플리케이션 개발자(Flutter)
+*2023.10 ~ now*
+
+웹소설 플랫폼 "투닷" 서비스 제작
+
+## 주식회사 허슬러즈 어플리케이션 개발자(Flutter) 
 *2022.04 ~ 2023.05*
+
 SNS 기반 소셜 공유 캘린더 "게더링" 서비스 제작
 
 [게더링 소개](https://archive-halfmoon-mind.s3.ap-northeast-2.amazonaws.com/%E1%84%80%E1%85%A6%E1%84%83%E1%85%A5%E1%84%85%E1%85%B5%E1%86%BC_%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2.pdf)
