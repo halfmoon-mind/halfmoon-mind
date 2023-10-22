@@ -66,7 +66,7 @@ Web/Mobile 파트
 # 🍾 Project
 |기간|주제|관련 링크|
 |----|-----|----|
-|2023.08 ~ now |청년의 고민을 노인이 해결해주는 마법의 소라고동, SeenEAR(신이어) flutter 개발 |[Github](https://github.com/OpenSourceSw-seenEar/seenEar-client)|
+|2023.08 ~ 2023.09. |청년의 고민을 노인이 해결해주는 마법의 소라고동, SeenEAR(신이어) flutter 개발 |[Github](https://github.com/OpenSourceSw-seenEar/seenEar-client)|
 |2023.04 ~ now |숭실대학교 학생들을 위한 웹사이트 제작 프로젝트, "다잇슈" 프로젝트 리더 |[Github](https://github.com/DaITssu/daitssu-client)|
 |2023.05 ~ 2023.06 |주변의 친환경 가게를 소개하고 공유하는 지도 어플리케이션, "깨끗해질지도" flutter 개발|[Github](https://github.com/May-Be-Clean/May_Be_Clean_client)|
 |2022.12 ~ 2023.04 |Google Solution Challenge 2023 "Garbage Collector" flutter 개발|[Github](https://github.com/gdsc-ssu/garbage-collector-client)|
