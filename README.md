@@ -15,8 +15,9 @@
 # 🚀 Work Experience 
 
 ### 주식회사 어터 어플리케이션 개발자(Flutter)
-웹소설 플랫폼 "투댓" 서비스 제작 | *2023.10 ~ now*
+*2023.10 ~ now* | [투댓 어플리케이션](https://apps.apple.com/kr/app/%ED%88%AC%EB%8C%93-%EC%9B%B9%EC%86%8C%EC%84%A4-%EB%AC%B4%EC%A0%9C%ED%95%9C-%EC%B4%88%EB%AA%B0%EC%9E%85-%EC%A0%95%EC%A3%BC%ED%96%89/id6469601198)
 
+웹소설 플랫폼 "투댓" 서비스 제작
 
 ### 주식회사 허슬러즈 어플리케이션 개발자(Flutter) 
 *2022.04 ~ 2023.05* | [게더링 소개](https://archive-halfmoon-mind.s3.ap-northeast-2.amazonaws.com/%E1%84%80%E1%85%A6%E1%84%83%E1%85%A5%E1%84%85%E1%85%B5%E1%86%BC_%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2.pdf) | [게더링 어플리케이션](https://apps.apple.com/kr/app/%EA%B2%8C%EB%8D%94%EB%A7%81-%EC%9A%94%EC%A6%98-%EC%84%B8%EB%8C%80%EC%9D%98-%EB%8A%90%EB%82%8C%EC%9E%88%EB%8A%94-%EC%BA%98%EB%A6%B0%EB%8D%94/id1643475991) 
