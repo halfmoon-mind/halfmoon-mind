@@ -10,8 +10,6 @@
 ### [Resume](https://archive-halfmoon-mind.s3.ap-northeast-2.amazonaws.com/Eddy+(%E1%84%89%E1%85%B5%E1%86%B7%E1%84%89%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A7%E1%86%AB)+Sim+Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/eddy-sim/) | [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhalfmoon-mind&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=simsan00)](https://solved.ac/simsan00/)
-
 # 🚀 Work Experience 
 
 ### 주식회사 어터 어플리케이션 개발자(Flutter)
@@ -43,17 +41,13 @@ Web/Mobile Part Member | *2022.09 ~ now*
 
 
 # 🏆 Award
-- 제11회 K-해커톤 장려상
-과학기술정보통신부 | *2023.11* 
+- 제11회 K-해커톤 장려상 | 과학기술정보통신부 | *2023.11* 
 
-- 제19회 TOPCIT 정기평가 성적우수 장려상
-스파르탄SW교육원 | *2023.07*
+- 제19회 TOPCIT 정기평가 성적우수 장려상 | 스파르탄SW교육원 | *2023.07*
 
-- 제9회 KSPM 대학생 프로젝트 경연대회 장려상 "심+"
-한국 경영 학회 | *2020.04 ~ 2020.09*
+- 제9회 KSPM 대학생 프로젝트 경연대회 장려상 "심+" | 한국 경영 학회 | *2020.04 ~ 2020.09*
 
-- 숭실대학교 IT대학 소프트웨어 공모전 은상 "길잡이"
-숭실대학교IT대학 | *2020.08 ~ 2020.09*
+- 숭실대학교 IT대학 소프트웨어 공모전 은상 "길잡이" | 숭실대학교IT대학 | *2020.08 ~ 2020.09*
 
 
 # 🍾 Project
