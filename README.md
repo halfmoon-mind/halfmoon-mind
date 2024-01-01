@@ -12,12 +12,12 @@
 
 # 🚀 Work Experience 
 
-### 주식회사 어터 어플리케이션 개발자(Flutter)
+### 주식회사 어터, 어플리케이션 개발자(Flutter)
 *2023.10 ~ now* | [투댓 어플리케이션](https://apps.apple.com/kr/app/%ED%88%AC%EB%8C%93-%EC%9B%B9%EC%86%8C%EC%84%A4-%EB%AC%B4%EC%A0%9C%ED%95%9C-%EC%B4%88%EB%AA%B0%EC%9E%85-%EC%A0%95%EC%A3%BC%ED%96%89/id6469601198)
 
 웹소설 플랫폼 "투댓" 서비스 제작
 
-### 주식회사 허슬러즈 어플리케이션 개발자(Flutter) 
+### 주식회사 허슬러즈, 어플리케이션 개발자(Flutter) 
 *2022.04 ~ 2023.05* | [게더링 소개](https://archive-halfmoon-mind.s3.ap-northeast-2.amazonaws.com/%E1%84%80%E1%85%A6%E1%84%83%E1%85%A5%E1%84%85%E1%85%B5%E1%86%BC_%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2.pdf) | [게더링 어플리케이션](https://apps.apple.com/kr/app/%EA%B2%8C%EB%8D%94%EB%A7%81-%EC%9A%94%EC%A6%98-%EC%84%B8%EB%8C%80%EC%9D%98-%EB%8A%90%EB%82%8C%EC%9E%88%EB%8A%94-%EC%BA%98%EB%A6%B0%EB%8D%94/id1643475991) 
 
 SNS 기반 소셜 공유 캘린더 "게더링" 서비스 제작
@@ -30,9 +30,6 @@ SNS 기반 소셜 공유 캘린더 "게더링" 서비스 제작
 iOS Part Member | *2023.06 ~ now*
 
 [급할때 화장실](https://github.com/YOURSSU-Rookiethon-Team3/Faster-Toilet-iOS) | [YDS-iOS](https://github.com/yourssu/YDS-iOS)
-
-
-
 
 ### Google Developer Student Club 
 Web/Mobile Part Member | *2022.09 ~ now*
@@ -53,8 +50,8 @@ Web/Mobile Part Member | *2022.09 ~ now*
 # 🍾 Project
 |기간|주제|관련 링크|
 |----|-----|----|
-|2023.08 ~ 2023.09. |청년의 고민을 노인이 해결해주는 마법의 소라고동, SeenEAR(신이어) flutter 개발 |[Github](https://github.com/OpenSourceSw-seenEar/seenEar-client)|
 |2023.04 ~ now |숭실대학교 학생들을 위한 웹사이트 제작 프로젝트, "다잇슈" 프로젝트 리더 |[Github](https://github.com/DaITssu/daitssu-client)|
+|2023.08 ~ 2023.09. |청년의 고민을 노인이 해결해주는 마법의 소라고동, SeenEAR(신이어) flutter 개발 |[Github](https://github.com/OpenSourceSw-seenEar/seenEar-client)|
 |2023.05 ~ 2023.06 |주변의 친환경 가게를 소개하고 공유하는 지도 어플리케이션, "깨끗해질지도" flutter 개발|[Github](https://github.com/May-Be-Clean/May_Be_Clean_client)|
 |2022.12 ~ 2023.04 |Google Solution Challenge 2023 "Garbage Collector" flutter 개발|[Github](https://github.com/gdsc-ssu/garbage-collector-client)|
 |2022.09 ~ 2022.12 |"시작장애인의 위한 지하철 내부 길 유도 시스템" 고안 및 아이디어 고도화 |[설명 링크](https://velog.io/@halfmoon_mind/%EC%8B%9C%EC%9E%91%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%9D%98-%EC%9C%84%ED%95%9C-%EC%A7%80%ED%95%98%EC%B2%A0-%EB%82%B4%EB%B6%80-%EA%B8%B8-%EC%9C%A0%EB%8F%84-%EC%8B%9C%EC%8A%A4%ED%85%9C)|
