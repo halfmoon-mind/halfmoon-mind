@@ -7,7 +7,7 @@
 계속해서 성장하고 발전하는 사람이 되고 싶습니다. :)
 
 # 📸 About Me
-### [Resume](https://archive-halfmoon-mind.s3.ap-northeast-2.amazonaws.com/Eddy+(%E1%84%89%E1%85%B5%E1%86%B7%E1%84%89%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A7%E1%86%AB)+Sim+Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/eddy-sim/) | [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhalfmoon-mind&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### [Resume](https://archive-halfmoon-mind.s3.ap-northeast-2.amazonaws.com/Eddy+(%E1%84%89%E1%85%B5%E1%86%B7%E1%84%89%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A7%E1%86%AB)+Sim+Resume.pdf) | [Portfolio](https://archive-halfmoon-mind.s3.ap-northeast-2.amazonaws.com/portfolio_240322.pdf) | [LinkedIn](https://www.linkedin.com/in/eddy-sim/) | [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhalfmoon-mind&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 # 🚀 Work Experience 
