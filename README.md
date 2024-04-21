@@ -9,40 +9,18 @@
 # 📸 About Me
 ### [Resume](https://archive-halfmoon-mind.s3.ap-northeast-2.amazonaws.com/Resume_240322.pdf) | [Portfolio](https://archive-halfmoon-mind.s3.ap-northeast-2.amazonaws.com/portfolio_240322.pdf) | [LinkedIn](https://www.linkedin.com/in/eddy-sim/) | [Velog](https://velog.io/@halfmoon_mind/posts) | [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhalfmoon-mind&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+# 📝 Article
 
-# 🚀 Work Experience 
-
-### 주식회사 어터, 어플리케이션 개발자(Flutter)
-*2023.10 ~ now* | [투댓 어플리케이션](https://apps.apple.com/kr/app/%ED%88%AC%EB%8C%93-%EC%9B%B9%EC%86%8C%EC%84%A4-%EB%AC%B4%EC%A0%9C%ED%95%9C-%EC%B4%88%EB%AA%B0%EC%9E%85-%EC%A0%95%EC%A3%BC%ED%96%89/id6469601198)
-
-웹소설 플랫폼 "투댓" 서비스 제작
-
-# 🚴 Community
-
-### YourSSU
-iOS Part Member | *2023.06 ~ now*
-
-[급할때 화장실](https://github.com/YOURSSU-Rookiethon-Team3/Faster-Toilet-iOS) | [YDS-iOS](https://github.com/yourssu/YDS-iOS)
-
-### Google Developer Student Club 
-Web/Mobile Part Member | *2022.09 ~ now*
-
-[플러터 어디까지 배워볼래 세미나](https://archive-halfmoon-mind.s3.ap-northeast-2.amazonaws.com/%E1%84%91%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A5%E1%84%90%E1%85%A5_%E1%84%8B%E1%85%A5%E1%84%83%E1%85%B5%E1%84%81%E1%85%A1%E1%84%8C%E1%85%B5_%E1%84%87%E1%85%A2%E1%84%8B%E1%85%AF%E1%84%87%E1%85%A9%E1%86%AF%E1%84%85%E1%85%A2.pdf) | [클린코드 스터디](https://github.com/gdsc-ssu/clean_code_master) | [UpDate CLI](https://github.com/gdsc-ssu/up-date-cli)
-
-
-# 🏆 Award
-- 제11회 K-해커톤 장려상 | 과학기술정보통신부 | *2023.11* 
-
-- 제19회 TOPCIT 정기평가 성적우수 장려상 | 스파르탄SW교육원 | *2023.07*
-
-- 제9회 KSPM 대학생 프로젝트 경연대회 장려상 "심+" | 한국 경영 학회 | *2020.04 ~ 2020.09*
-
-- 숭실대학교 IT대학 소프트웨어 공모전 은상 "길잡이" | 숭실대학교IT대학 | *2020.08 ~ 2020.09*
-
+- [Flutter로 업데이트 없이 다채로운 이벤트 구축하기](https://velog.io/@halfmoon_mind/Flutter%EB%A1%9C-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%97%86%EC%9D%B4-%EB%8B%A4%EC%B1%84%EB%A1%9C%EC%9A%B4-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-1)
+- [Clean Architecture와 GetX를 사용하여 Todo List 앱 만들기](https://velog.io/@halfmoon_mind/Flutter-Making-Todo-List-App-with-Clean-Architecture-and-GetX)
+- [MySQL에 이모지 저장하기](https://velog.io/@halfmoon_mind/MySQL%EC%97%90%EC%84%9C-emoji-%EC%A0%80%EC%9E%A5)
+- [크롤링에 대한 보안 기술](https://velog.io/@halfmoon_mind/%ED%81%AC%EB%A1%A4%EB%A7%81%EC%97%90-%EB%8C%80%ED%95%9C-%EB%B3%B4%EC%95%88-%EA%B8%B0%EC%88%A0)
+- [시각장애인을 위한 지하철 내부 길 유도 시스템 고안](https://velog.io/@halfmoon_mind/%EC%8B%9C%EC%9E%91%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%9D%98-%EC%9C%84%ED%95%9C-%EC%A7%80%ED%95%98%EC%B2%A0-%EB%82%B4%EB%B6%80-%EA%B8%B8-%EC%9C%A0%EB%8F%84-%EC%8B%9C%EC%8A%A4%ED%85%9C)
 
 # 🍾 Project
 |기간|주제|관련 링크|
 |----|-----|----|
+|2023.10 ~ now |웹소설 플랫폼 "투댓" 서비스 제작 | [투댓 어플리케이션](https://apps.apple.com/kr/app/%ED%88%AC%EB%8C%93-%EC%9B%B9%EC%86%8C%EC%84%A4-%EB%AC%B4%EC%A0%9C%ED%95%9C-%EC%B4%88%EB%AA%B0%EC%9E%85-%EC%A0%95%EC%A3%BC%ED%96%89/id6469601198)
 |2023.04 ~ 2024.04 |숭실대학교 학생들을 위한 웹사이트 제작 프로젝트, "다잇슈" 프로젝트 리더 |[Github](https://github.com/DaITssu/daitssu-client)|
 |2022.04 ~ 2023.05 | SNS 기반 소셜 공유 캘린더 "게더링" 서비스 제작 | [게더링 소개](https://archive-halfmoon-mind.s3.ap-northeast-2.amazonaws.com/%E1%84%80%E1%85%A6%E1%84%83%E1%85%A5%E1%84%85%E1%85%B5%E1%86%BC_%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2.pdf)<br>[게더링 어플리케이션](https://apps.apple.com/kr/app/%EA%B2%8C%EB%8D%94%EB%A7%81-%EC%9A%94%EC%A6%98-%EC%84%B8%EB%8C%80%EC%9D%98-%EB%8A%90%EB%82%8C%EC%9E%88%EB%8A%94-%EC%BA%98%EB%A6%B0%EB%8D%94/id1643475991) 
 |2023.08 ~ 2023.09. |청년의 고민을 노인이 해결해주는 마법의 소라고동, SeenEAR(신이어) flutter 개발 |[Github](https://github.com/OpenSourceSw-seenEar/seenEar-client)|
