@@ -18,6 +18,8 @@
 - [크롤링에 대한 보안 기술](https://velog.io/@halfmoon_mind/%ED%81%AC%EB%A1%A4%EB%A7%81%EC%97%90-%EB%8C%80%ED%95%9C-%EB%B3%B4%EC%95%88-%EA%B8%B0%EC%88%A0)
 - [시각장애인을 위한 지하철 내부 길 유도 시스템 고안](https://velog.io/@halfmoon_mind/%EC%8B%9C%EC%9E%91%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%9D%98-%EC%9C%84%ED%95%9C-%EC%A7%80%ED%95%98%EC%B2%A0-%EB%82%B4%EB%B6%80-%EA%B8%B8-%EC%9C%A0%EB%8F%84-%EC%8B%9C%EC%8A%A4%ED%85%9C)
 
+[![Github](https://www.codenary.co.kr/widget/github/api?username=심상현)](https://www.codenary.co.kr/user-profile/detail/심상현?github_ride=true&utm_source=github)
+
 # 🍾 Project
 |기간|주제|관련 링크|
 |----|-----|----|
