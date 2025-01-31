@@ -15,5 +15,5 @@ I want to make helpful services with programming.
 I aspire to be a person who continually grows and develops. :)
 
 # 📸 About Me
-### [Resume](https://docs.google.com/document/d/1pbOWUbGfk1MXH3WVTVUpIwReK7p5L3av9bkbkWj97J4/edit?usp=sharing) | [Portfolio](https://archive-halfmoon-mind.s3.ap-northeast-2.amazonaws.com/portfolio_240322.pdf) | [LinkedIn](https://www.linkedin.com/in/eddy-sim/) | [Blog](https://velog.io/@halfmoon_mind/posts) | [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhalfmoon-mind&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### [Resume](https://docs.google.com/document/d/1BVx3Nc8rtRNfIjMqV9jsCU-3J0Mnls3W-WItmdJE-vA/edit?usp=sharing) | [Portfolio](https://archive-halfmoon-mind.s3.ap-northeast-2.amazonaws.com/portfolio_240322.pdf) | [LinkedIn](https://www.linkedin.com/in/eddy-sim/) | [Blog](https://velog.io/@halfmoon_mind/posts) | [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhalfmoon-mind&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
