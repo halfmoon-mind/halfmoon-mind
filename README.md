@@ -15,7 +15,7 @@ I want to make helpful services with programming.
 I aspire to be a person who continually grows and develops. :)
 
 # 📸 About Me
-### [HomePage](https://halfmoon.day) | [LinkedIn](https://www.linkedin.com/in/eddy-sim/) | [Blog](https://velog.io/@halfmoon_mind/posts)
+### [HomePage](https://halfmoon.day) | [LinkedIn](https://www.linkedin.com/in/eddy-sim/)
 
 ### The things I did as a side project
 - 이상형 월드컵 플랫폼, 피키버스 [ [iOS](https://apps.apple.com/kr/app/%ED%94%BC%ED%82%A4%EB%B2%84%EC%8A%A4/id6742077036?uo=2) / [Android](https://play.google.com/store/apps/details?id=com.pickiverse.app) / [Web](https://pickiverse.com) ]
