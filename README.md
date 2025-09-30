@@ -24,6 +24,6 @@ I aspire to be a person who continually grows and develops. :)
 - 수면 상태를 배터리 형태로 보여주는 수면 측정 트래커, Nightary [ [Github](https://github.com/GDSC-snowflowerthon/Nightary-team12-mobile) ]
 - 숭실대 학생들을 위한 모든 서비스, 다잇슈 [ [Github](https://github.com/DaITssu) ]
 - 이미지 손쉽게 다운로드 할 수 있는 Chrome Extension, Easy Image Downloader [ [Demo](https://www.youtube.com/watch?v=iLoTBTHKjzk&ab_channel=HALFMOON) / [Store](https://chromewebstore.google.com/detail/easy-image-downloader/lnldmkhkjnkcfndnhibbnaohplecldmb?authuser=0&hl=ko) ]
-- 광고 없는 QR코드 생성기, [ [QR Maker](https://www.qrmaker.site/) / [Github](https://github.com/halfmoon-mind/qr-maker) ]
+- 광고 없는 QR코드 생성기, [ [QR Maker](https://qr.halfmoon.day/) / [Github](https://github.com/halfmoon-mind/qr-maker) ]
 - 여러 개의 웹브라우저가 동적으로 연결되는 multiple window connection [ [Web](https://mutliple-windows.s3.ap-northeast-2.amazonaws.com/index.html) / [Github](https://github.com/halfmoon-mind/multiple-window-connection) ]
 
