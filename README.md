@@ -18,6 +18,7 @@ I aspire to be a person who continually grows and develops. :)
 ### [HomePage](https://halfmoon.day) | [LinkedIn](https://www.linkedin.com/in/eddy-sim/)
 
 ### The things I did as a side project
+- 인디 아티스트의 중요한 순간을 놓치지 않도록, 입춘 [ [Link](https://ipchun.live) ]
 - 이상형 월드컵 플랫폼, 피키버스 [ [iOS](https://apps.apple.com/kr/app/%ED%94%BC%ED%82%A4%EB%B2%84%EC%8A%A4/id6742077036?uo=2) / [Android](https://play.google.com/store/apps/details?id=com.pickiverse.app) / [Web](https://pickiverse.com) ]
 - Slack 봇으로 정산을 간편하게, 정산봇 [ [Link](https://slack.com/marketplace/A087W0YSC7N-) ]
 - 소비로서 친환경을 실천할 수 있게 도와주는 서비스, 깨끗해질지도 [ [iOS](https://apps.apple.com/kr/app/%EA%B9%A8%EB%81%97%ED%95%B4%EC%A7%88%EC%A7%80%EB%8F%84/id6449622294) / [Android](https://play.google.com/store/apps/details?id=com.may_be_clean.plant) / [Github](https://github.com/May-Be-Clean) ]
