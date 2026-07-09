@@ -1,6 +1,6 @@
 # 안녕하세요, 심상현입니다 👋
 
-[Playtag](https://playtag.ai/)에서 Flutter 엔지니어로 일하며, 사이드로 AI 개발자 도구를 만듭니다.
+[Playtag](https://playtag.ai/)에서 Flutter 엔지니어로 일하며 사이드로 AI 개발자 도구를 만듭니다.
 
 기술로 사람들에게 실제로 도움이 되는 서비스를 만드는 것을 좋아합니다 —
 스토어에 올라간 앱부터 Claude Code 플러그인까지.
@@ -21,7 +21,7 @@
 ### 앱 / 서비스
 - 인디 아티스트의 중요한 순간을 놓치지 않도록, 입춘 [ [Link](https://ipchun.live) ]
 - 이상형 월드컵 플랫폼, 피키버스 [ [iOS](https://apps.apple.com/kr/app/%ED%94%BC%ED%82%A4%EB%B2%84%EC%8A%A4/id6742077036?uo=2) / [Android](https://play.google.com/store/apps/details?id=com.pickiverse.app) / [Web](https://pickiverse.com) ]
-- 소비로서 친환경을 실천할 수 있게 도와주는 서비스, 깨끗해질지도 [ [iOS](https://apps.apple.com/kr/app/%EA%B9%A8%EB%81%97%ED%95%B4%EC%A7%88%EC%A7%80%EB%8F%84/id6449622294) / [Android](https://play.google.com/store/apps/details?id=com.may_be_clean.plant) / [Github](https://github.com/May-Be-Clean) ]
+- 소비로 친환경을 실천할 수 있게 도와주는 서비스, 깨끗해질지도 [ [iOS](https://apps.apple.com/kr/app/%EA%B9%A8%EB%81%97%ED%95%B4%EC%A7%88%EC%A7%80%EB%8F%84/id6449622294) / [Android](https://play.google.com/store/apps/details?id=com.may_be_clean.plant) / [Github](https://github.com/May-Be-Clean) ]
 - 수면 상태를 배터리 형태로 보여주는 수면 측정 트래커, Nightary [ [Github](https://github.com/GDSC-snowflowerthon/Nightary-team12-mobile) ]
 - 숭실대 학생들을 위한 모든 서비스, 다잇슈 [ [Github](https://github.com/DaITssu) ]
 
