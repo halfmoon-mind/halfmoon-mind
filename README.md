@@ -2,8 +2,7 @@
 
 [Playtag](https://playtag.ai/)에서 Flutter 엔지니어로 일하며 사이드로 AI 개발자 도구를 만듭니다.
 
-기술로 사람들에게 실제로 도움이 되는 서비스를 만드는 것을 좋아합니다 —
-스토어에 올라간 앱부터 Claude Code 플러그인까지.
+스토어에 올라간 앱부터 Claude Code 플러그인까지, 사람들에게 실제로 도움이 되는 서비스 만드는 걸 좋아합니다.
 
 > Flutter engineer at [Playtag](https://playtag.ai/), building AI developer tools on the side.
 
