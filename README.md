@@ -1,8 +1,8 @@
 # 안녕하세요, 심상현입니다 👋
 
-[Playtag](https://playtag.ai/)에서 Flutter 엔지니어로 일하며 사이드로 AI 개발자 도구를 만듭니다.
+[Playtag](https://playtag.ai/)에서 Flutter 엔지니어로 일하며 AI를 활용하는 개발자 도구를 만듭니다.
 
-스토어에 올라간 앱부터 Claude Code 플러그인까지, 사람들에게 실제로 도움이 되는 서비스 만드는 걸 좋아합니다.
+모바일 앱부터 Claude Code 플러그인까지, 사람들에게 실제로 도움이 되는 서비스 만드는 걸 좋아합니다.
 
 > Flutter engineer at [Playtag](https://playtag.ai/), building AI developer tools on the side.
 
