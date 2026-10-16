@@ -13,7 +13,7 @@
 ## 🛠 Side Projects
 
 ### 앱 / 서비스
-- 실리카겔 공연의 비주얼을 사진과 영상에 담는 팬메이드 카메라 앱, 자경단(실리카겔 카메라) [ [iOS](https://apps.apple.com/kr/app/id6817583570) / [Web](https://silicagel.halfmoon.day/) ]
+- 실리카겔 공연의 비주얼을 사진과 영상에 담는 팬메이드 카메라 앱, 자경단(실리카겔 카메라) [ [iOS](https://apps.apple.com/kr/app/id6817583570) / [Android](https://play.google.com/store/apps/details?id=com.halfmoonmind.silicagelcamera&hl=ko) / [Web](https://silicagel.halfmoon.day/) ]
 - 이상형 월드컵 플랫폼, 피키버스 [ [iOS](https://apps.apple.com/kr/app/%ED%94%BC%ED%82%A4%EB%B2%84%EC%8A%A4/id6742077036?uo=2) / [Android](https://play.google.com/store/apps/details?id=com.pickiverse.app) / [Web](https://pickiverse.com) ]
 - 인디 아티스트의 중요한 순간을 놓치지 않도록, 입춘 [ [Link](https://ipchun.live) ]
 
