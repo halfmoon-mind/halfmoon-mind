@@ -21,6 +21,7 @@
 - Claude와 GPT의 의견을 합쳐 더 좋은 출력을 만드는 Claude Code 플러그인, Fusion Council [ [Github](https://github.com/halfmoon-mind/fusion-council) ]
 - Claude Code, Codex 스킬을 루브릭 기반으로 평가하고 개선해주는 도구, Rubric Evaluator [ [Github](https://github.com/halfmoon-mind/rubric-evaluator) ]
 - 화면에 항상 떠 있는 키캡을 눌러 한/영을 전환하는 macOS 유틸리티, LangToggle [ [Github](https://github.com/halfmoon-project/langtoggle) ]
+- 공유 계정의 2단계 인증 코드를 디스코드에서 발급하는 봇, Discord OTP Bot [ [Github](https://github.com/halfmoon-mind/discord-otp-bot) ]
 - Slack 봇으로 정산을 간편하게, 정산봇 [ [Link](https://halfmoon.day/portfolio/paybot/) ]
 
 ### 그 밖의 앱 / 서비스
